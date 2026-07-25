@@ -26,7 +26,16 @@ Author:
 Ricky Rojas
 Atlanta, Georgia
 LinkedIn: [Ricky Rojas on LinkedIn](https://www.linkedin.com/in/ricky-rojas)
+## Project Links
 
+• GitHub Repository:
+https://github.com/RickyARojas/The-Groundhog-Trap
+
+• LinkedIn Articles:
+https://www.linkedin.com/in/ricky-rojas
+
+• Groundhog Trap Prototype
+groundhogtrap.ienf3m@zapiermail.com
 ---
 
 ## 🚧 Roadmap
