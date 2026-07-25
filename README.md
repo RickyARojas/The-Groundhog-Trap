@@ -31,6 +31,8 @@ https://www.linkedin.com/in/ricky-rojas
 
 • Groundhog Trap Prototype
 groundhogtrap.ienf3m@zapiermail.com
+• Website:
+https://groundhogtrap.wordpress.com/
 ---
 
 ## 🚧 Roadmap
