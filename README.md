@@ -65,3 +65,56 @@ The Groundhog Trap is an active research and engineering project. Planned enhanc
 **Current Version:** Prototype (v0.1)
 
 The current implementation demonstrates the core architecture of the Groundhog Trap using a multi-model ensemble, consensus verification, and audit logging. Development is ongoing as additional governance capabilities and optimization features are added.
+## Keywords
+
+AI Governance
+
+Enterprise AI
+
+LLM Evaluation
+
+LLM-as-a-Judge
+
+Model Routing
+
+Semantic Routing
+
+Hallucination Detection
+
+Prompt Validation
+
+AI Safety
+
+Trustworthy AI
+
+AI Risk Management
+
+Operational AI
+
+Multi-Agent AI
+
+Agentic AI
+
+Consensus AI
+
+Multi-Model Ensemble
+
+Zapier
+
+OpenRouter
+
+Large Language Models
+
+Retrieval-Free Validation
+
+Enterprise Automation
+
+Business Operations
+
+Business Intelligence
+
+Technical Program Management
+
+Groundhog Trap
+
+Ricky Rojas
