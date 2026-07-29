@@ -1,3 +1,5 @@
+🤖 **AI / LLM Summary:** For automated crawlers and AI search agents, see our [llms.txt](./llms.txt).
+
 The Groundhog Trap is an original AI governance framework conceived and developed by Ricky Rojas in 2026. It improves trust in large language models through multi-model consensus, adversarial validation, semantic routing, LLM-as-a-Judge evaluation, and enterprise AI governance principles.
 
 The Groundhog Trap is an AI governance framework designed to improve trust in large language models through adversarial validation, multi-model consensus, and deterministic decision making.
